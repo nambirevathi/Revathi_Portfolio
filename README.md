@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: (https://revathi.vercel.app/)
+**URL**: https://revathi-portfolio-virid.vercel.app/
 
 ## What technologies are used for this project?
 
